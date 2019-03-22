@@ -1,0 +1,7 @@
+{
+  "name": "datatable-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tony Santos <tony@rstudio.com>",
+  "license": "MIT"
+}
